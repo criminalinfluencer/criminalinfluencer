@@ -12,3 +12,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=criminalinfluencer&layout=compact&theme=dark)](https://github.com/criminalinfluencer)
 
 ![Snake animation](https://raw.githubusercontent.com/criminalinfluencer/criminalinfluencer/output/snake.svg)
+
+![Carding](https://media1.giphy.com/media/d3mmdNnW5hkoUxTG/giphy.gif?cid=6c09b95225aooq0iqs7060e23ao52e6msa2alfnkbx6iakm2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
