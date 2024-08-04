@@ -1,4 +1,4 @@
-# Olá, eu sou o kali 👋
+# 👋
 
 - 🌱 Atualmente estou aprendendo [HUFF](https://huff.sh).
 - 💻 Meus principais projetos incluem [G-HOSP](https://www.inovadora.com.br/ghosp.html), [G-MUS](https://www.inovadora.com.br/gmus.html) e [G-UPA](https://www.inovadora.com.br/gupa.html).
