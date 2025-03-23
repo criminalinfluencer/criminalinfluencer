@@ -9,6 +9,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunogallo&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogallo&layout=compact&theme=dark)](https://github.com/brunogallo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogallo&layout=compact&theme=dark)](https://github.com/criminalinfluencer)
 
 ![Snake animation](https://raw.githubusercontent.com/criminalinfluencer/criminalinfluencer/output/snake.svg)
